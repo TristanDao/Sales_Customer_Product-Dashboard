@@ -9,7 +9,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-s
 With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
 
 ## Objective:
-
+End to end Power BI project
 This dashboard is designed for the management team to monitor monthly business performance. Key metrics include total revenue, profit, and sales by customer segment. The dashboard enables us to quickly identify top-selling products and potential markets. Consequently, we can adjust marketing strategies, increase production, and expand into new markets.
 
 ## Approach:
